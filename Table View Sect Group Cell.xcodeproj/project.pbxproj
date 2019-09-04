@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ACAEEA28231F68FB007CABC3 /* SectionGroupTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAEEA27231F68FB007CABC3 /* SectionGroupTableViewController.swift */; };
 		ACEECF9A231E17A300DBD8CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEECF99231E17A300DBD8CB /* AppDelegate.swift */; };
 		ACEECF9F231E17A300DBD8CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACEECF9D231E17A300DBD8CB /* Main.storyboard */; };
 		ACEECFA1231E17A500DBD8CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACEECFA0231E17A500DBD8CB /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ACAEEA27231F68FB007CABC3 /* SectionGroupTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionGroupTableViewController.swift; sourceTree = "<group>"; };
 		ACEECF96231E17A300DBD8CB /* Table View Sect Group Cell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Table View Sect Group Cell.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACEECF99231E17A300DBD8CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACEECF9E231E17A300DBD8CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				ACEECF99231E17A300DBD8CB /* AppDelegate.swift */,
+				ACAEEA27231F68FB007CABC3 /* SectionGroupTableViewController.swift */,
 				ACEECF9D231E17A300DBD8CB /* Main.storyboard */,
 				ACEECFA0231E17A500DBD8CB /* Assets.xcassets */,
 				ACEECFA2231E17A500DBD8CB /* LaunchScreen.storyboard */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACEECF9A231E17A300DBD8CB /* AppDelegate.swift in Sources */,
+				ACAEEA28231F68FB007CABC3 /* SectionGroupTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
